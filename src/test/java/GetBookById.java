@@ -11,7 +11,6 @@ public class  GetBookById extends AbstractTest{
 
     @BeforeAll
     static void setUp(){
-
         RestAssured.enableLoggingOfRequestAndResponseIfValidationFails();
     }
     @Test

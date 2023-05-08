@@ -11,7 +11,6 @@ public class UpdateBookInformation extends AbstractTest{
 
     @BeforeAll
     static void setUp(){
-
         RestAssured.enableLoggingOfRequestAndResponseIfValidationFails();
     }
 

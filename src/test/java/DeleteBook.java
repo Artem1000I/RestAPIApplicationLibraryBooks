@@ -11,7 +11,6 @@ public class  DeleteBook extends AbstractTest{
 
     @BeforeAll
     static void setUp(){
-
         RestAssured.enableLoggingOfRequestAndResponseIfValidationFails();
     }
 
